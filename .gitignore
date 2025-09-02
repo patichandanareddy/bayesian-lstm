@@ -221,8 +221,6 @@ models/
 checkpoints/
 *.pt
 *.pth
-*.h5
 *.onnx
 *.zip
-*.tar
 *.tar.gz
